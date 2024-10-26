@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="common-util" />
+        <module name="gec-service-system" />
+        <module name="auth-security" />
+        <module name="service-util" />
+        <module name="gec-model" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="11">
+      <module name="auth-security" target="1.8" />
+      <module name="common-util" target="1.8" />
+      <module name="gec-auth" target="1.8" />
+      <module name="gec-common" target="1.8" />
+      <module name="gec-model" target="1.8" />
+      <module name="gec-service-system" target="1.8" />
+      <module name="service-util" target="1.8" />
+      <module name="untitled" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="auth-security" options="-parameters" />
+      <module name="common-util" options="-parameters" />
+      <module name="gec-auth" options="-parameters" />
+      <module name="gec-common" options="-parameters" />
+      <module name="gec-model" options="-parameters" />
+      <module name="gec-service-system" options="-parameters" />
+      <module name="service-util" options="-parameters" />
+      <module name="untitled" options="-parameters" />
+    </option>
+  </component>
+</project>

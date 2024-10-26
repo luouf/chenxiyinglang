@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/auth-security.iml" filepath="$PROJECT_DIR$/auth-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-util.iml" filepath="$PROJECT_DIR$/common-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gec-auth.iml" filepath="$PROJECT_DIR$/gec-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gec-common.iml" filepath="$PROJECT_DIR$/gec-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gec-model.iml" filepath="$PROJECT_DIR$/gec-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gec-service-system.iml" filepath="$PROJECT_DIR$/gec-service-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-util.iml" filepath="$PROJECT_DIR$/service-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/综合项目.iml" filepath="$PROJECT_DIR$/.idea/综合项目.iml" />
+    </modules>
+  </component>
+</project>
